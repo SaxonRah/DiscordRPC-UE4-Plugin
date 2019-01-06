@@ -1,8 +1,10 @@
 DiscordRPC UE Unreal Engine 4.21.1 Plugin
+https://saxonrah.github.io/DiscordRPC-UE4-Plugin/
 
-https://github.com/discordapp/discord-rpc
 
 -------------------------------------------------------------------------------------------------------
+
+https://github.com/discordapp/discord-rpc
 
 It is this repo and has the unrealstatus project files included in plugin contents folder. 
 It has been updated to 4.21.1 and there is no setup nessacary or external ue4 project to open. 
