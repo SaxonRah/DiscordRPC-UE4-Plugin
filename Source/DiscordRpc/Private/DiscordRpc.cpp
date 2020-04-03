@@ -1,8 +1,7 @@
 // Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
 
 #include "DiscordRpcPrivatePCH.h"
-#include "IPluginManager.h"
-#include "ModuleManager.h"
+#include "Interfaces/IPluginManager.h"
 
 #define LOCTEXT_NAMESPACE "FDiscordRpcModule"
 

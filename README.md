@@ -1,4 +1,4 @@
-DiscordRPC UE Unreal Engine 4.21.1 Plugin
+DiscordRPC UE Unreal Engine 4.24 Plugin
 https://saxonrah.github.io/DiscordRPC-UE4-Plugin/
 
 
